@@ -1,3 +1,3 @@
 opisujemy laba
 
-proba comiat
+proba comiattereertert
