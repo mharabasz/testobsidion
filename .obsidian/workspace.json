@@ -25,14 +25,12 @@
             "id": "478c7e367dad902d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "dodawanie scrennow.md",
-                "mode": "preview",
-                "source": false
+                "file": "Lab/windows1/1.png"
               },
-              "icon": "lucide-file",
-              "title": "dodawanie scrennow"
+              "icon": "lucide-image",
+              "title": "1"
             }
           }
         ],
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dodawanie scrennow.md",
+                "file": "Lab/windows1/1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dodawanie scrennow"
+              "title": "Backlinks for 1"
             }
           },
           {
@@ -128,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dodawanie scrennow.md",
+                "file": "Lab/windows1/1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from dodawanie scrennow"
+              "title": "Outgoing links from 1"
             }
           },
           {
@@ -157,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dodawanie scrennow.md",
+                "file": "Lab/windows1/1.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dodawanie scrennow"
+              "title": "Outline of 1"
             }
           },
           {
@@ -195,14 +193,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "478c7e367dad902d",
+  "active": "0d3a71961a3b04eb",
   "lastOpenFiles": [
-    "readme.md",
+    "Lab/windows1/redme.md",
+    "Lab/windows1/skrypt.ps1.md",
     "dodawanie scrennow.md",
-    "Lab/windows/1.png",
-    "Lab/windows/skrypt.ps1.md",
-    "Lab/windows/1.md",
-    "Lab/windows/redme.md",
+    "readme.md",
+    "Lab/windows1/1.png",
+    "Lab/windows1/1.md",
     "Lab/Peoxmox/redme.md",
     "Lab/Peoxmox/config",
     "Lab/Linux/redme.md",
@@ -214,7 +212,7 @@
     "2/linux/1.md.md",
     "windows.md",
     "2/linux",
-    "Lab/windows",
+    "Lab/windows1",
     "2",
     "Welcome.md",
     "Lab"
