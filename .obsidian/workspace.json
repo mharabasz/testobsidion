@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "1/windows/2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "2"
             }
           }
         ]
@@ -193,10 +193,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99948fdf940412e7",
+  "active": "10b4c64c33b290df",
   "lastOpenFiles": [
-    "readme.md",
+    "1/windows/2.md",
     "1/windows/1.md",
+    "Untitled.md",
+    "readme.md",
     "2/linux/2.md",
     "3",
     "2/linux/1.md.md",
