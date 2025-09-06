@@ -197,8 +197,10 @@
   },
   "active": "478c7e367dad902d",
   "lastOpenFiles": [
-    "01-proxmox-lab/docs/network-setup.md",
+    "01-proxmox-lab/configs/1.sh.md",
     "01-proxmox-lab/readme.md",
+    "01-proxmox-lab/configs/2.ps1.md",
+    "01-proxmox-lab/docs/network-setup.md",
     "readme.md",
     "Lab/01_Linux/redme.md",
     "01-proxmox-lab/configs",
