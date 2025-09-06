@@ -195,14 +195,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "478c7e367dad902d",
+  "active": "0d3a71961a3b04eb",
   "lastOpenFiles": [
-    "windows/1.png",
+    "01-proxmox-lab/configs",
+    "01-proxmox-lab/scripts",
+    "01-proxmox-lab/assets",
+    "01-proxmox-lab/docs",
+    "01-proxmox-lab",
+    "02-windows/1.png",
     "dodawanie scrennow.md",
     "readme.md",
-    "windows/skrypt.ps1.md",
-    "windows/1.md",
-    "windows/redme.md",
+    "02-windows/skrypt.ps1.md",
+    "02-windows/1.md",
+    "02-windows/redme.md",
     "Lab/Peoxmox/redme.md",
     "Lab/Peoxmox/config",
     "Lab/01_Linux/redme.md",
@@ -214,9 +219,6 @@
     "2/linux/1.md.md",
     "windows.md",
     "2/linux",
-    "windows",
-    "2",
-    "Welcome.md",
-    "Lab"
+    "Welcome.md"
   ]
 }
