@@ -25,11 +25,13 @@
             "id": "478c7e367dad902d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Lab/windows1/1.png"
+                "file": "windows/1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
+              "icon": "lucide-file",
               "title": "1"
             }
           }
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab/windows1/1.png",
+                "file": "windows/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab/windows1/1.png",
+                "file": "windows/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab/windows1/1.png",
+                "file": "windows/1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -193,14 +195,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d3a71961a3b04eb",
+  "active": "478c7e367dad902d",
   "lastOpenFiles": [
-    "Lab/windows1/redme.md",
-    "Lab/windows1/skrypt.ps1.md",
+    "windows/1.png",
+    "windows/redme.md",
+    "windows/skrypt.ps1.md",
     "dodawanie scrennow.md",
     "readme.md",
-    "Lab/windows1/1.png",
-    "Lab/windows1/1.md",
+    "windows/1.md",
     "Lab/Peoxmox/redme.md",
     "Lab/Peoxmox/config",
     "Lab/Linux/redme.md",
@@ -212,7 +214,7 @@
     "2/linux/1.md.md",
     "windows.md",
     "2/linux",
-    "Lab/windows1",
+    "windows",
     "2",
     "Welcome.md",
     "Lab"
