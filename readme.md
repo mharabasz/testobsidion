@@ -1,0 +1,1 @@
+opisujemy laba
