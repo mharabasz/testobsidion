@@ -1,1 +1,3 @@
 opisujemy laba
+
+proba comiat
