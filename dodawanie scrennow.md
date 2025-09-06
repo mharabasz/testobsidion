@@ -1,6 +1,7 @@
 obraz z folderu windows 
 
-<img src="02-windows/1.png" width="300" alt="Diagram sieci przedstawiający konfigurację hostów w laboratorium Proxmox.">
+konfiguracja proxmox
+<img src="02-windows/1.png" width="100" alt="Diagram sieci przedstawiający konfigurację hostów w laboratorium Proxmox.">
 
 
 
