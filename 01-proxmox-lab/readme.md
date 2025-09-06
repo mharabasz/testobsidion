@@ -1,4 +1,4 @@
-[Linkowanie skryptu](configs/1.sh) 
+[Linkowanie skryptu](configs/1.sh.md) 
 
 albo bezposrednio z uzyciem ''
 ```skrypt```

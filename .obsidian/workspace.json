@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "01-proxmox-lab/readme.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
