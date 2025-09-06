@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab/Linux/redme.md",
+                "file": "Lab/01_Linux/redme.md",
                 "mode": "source",
                 "source": false
               },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab/Linux/redme.md",
+                "file": "Lab/01_Linux/redme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab/Linux/redme.md",
+                "file": "Lab/01_Linux/redme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab/Linux/redme.md",
+                "file": "Lab/01_Linux/redme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -205,10 +205,10 @@
     "windows/redme.md",
     "Lab/Peoxmox/redme.md",
     "Lab/Peoxmox/config",
-    "Lab/Linux/redme.md",
+    "Lab/01_Linux/redme.md",
     "Lab/Peoxmox/screen",
     "Lab/Peoxmox",
-    "Lab/Linux",
+    "Lab/01_Linux",
     "2/linux/2.md",
     "3",
     "2/linux/1.md.md",
