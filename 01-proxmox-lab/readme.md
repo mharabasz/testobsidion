@@ -1,4 +1,4 @@
-[Linkowanie skryptu](01-proxmox-lab/configs/1.sh) 
+[Linkowanie skryptu](configs/1.sh) 
 
 albo bezposrednio z uzyciem ''
 ```skrypt```
