@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "readme"
             }
-          },
-          {
-            "id": "478c7e367dad902d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-proxmox-lab/configs/1.sh.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.sh"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Ten",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-proxmox-lab/configs/1.sh.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.sh"
+              "title": "Backlinks for readme"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-proxmox-lab/configs/1.sh.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1.sh"
+              "title": "Outgoing links from readme"
             }
           },
           {
@@ -158,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-proxmox-lab/configs/1.sh.md",
+                "file": "readme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.sh"
+              "title": "Outline of readme"
             }
           },
           {
@@ -196,13 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6133cdc27adbae3d",
+  "active": "6101f5a7aff20098",
   "lastOpenFiles": [
-    "01-proxmox-lab/readme.md",
     "01-proxmox-lab/configs/1.sh.md",
+    "readme.md",
+    "01-proxmox-lab/readme.md",
     "01-proxmox-lab/configs/2.ps1.md",
     "01-proxmox-lab/docs/network-setup.md",
-    "readme.md",
     "Lab/01_Linux/redme.md",
     "01-proxmox-lab/configs",
     "01-proxmox-lab/scripts",
