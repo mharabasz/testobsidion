@@ -1,3 +1,7 @@
 opisujemy laba
 
 proba comiattereertert
+fdfdsf
+dsdsdsds
+dsdsds
+dsdsds
