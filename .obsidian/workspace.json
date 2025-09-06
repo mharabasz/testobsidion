@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab/01_Linux/redme.md",
+                "file": "01-proxmox-lab/readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "redme"
+              "title": "readme"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab/01_Linux/redme.md",
+                "file": "01-proxmox-lab/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for redme"
+              "title": "Backlinks for readme"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab/01_Linux/redme.md",
+                "file": "01-proxmox-lab/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from redme"
+              "title": "Outgoing links from readme"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab/01_Linux/redme.md",
+                "file": "01-proxmox-lab/readme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of redme"
+              "title": "Outline of readme"
             }
           },
           {
@@ -195,8 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d3a71961a3b04eb",
+  "active": "478c7e367dad902d",
   "lastOpenFiles": [
+    "01-proxmox-lab/docs/network-setup.md",
+    "01-proxmox-lab/readme.md",
+    "readme.md",
+    "Lab/01_Linux/redme.md",
     "01-proxmox-lab/configs",
     "01-proxmox-lab/scripts",
     "01-proxmox-lab/assets",
@@ -204,13 +208,11 @@
     "01-proxmox-lab",
     "02-windows/1.png",
     "dodawanie scrennow.md",
-    "readme.md",
     "02-windows/skrypt.ps1.md",
     "02-windows/1.md",
     "02-windows/redme.md",
     "Lab/Peoxmox/redme.md",
     "Lab/Peoxmox/config",
-    "Lab/01_Linux/redme.md",
     "Lab/Peoxmox/screen",
     "Lab/Peoxmox",
     "Lab/01_Linux",
@@ -218,7 +220,6 @@
     "3",
     "2/linux/1.md.md",
     "windows.md",
-    "2/linux",
     "Welcome.md"
   ]
 }
