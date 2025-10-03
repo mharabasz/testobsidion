@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dodawanie scrennow.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dodawanie scrennow"
+              "title": "readme"
             }
           }
         ]
@@ -142,17 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dodawanie scrennow.md",
+                "file": "readme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dodawanie scrennow"
+              "title": "Outline of readme"
             }
           },
           {
-            "id": "10b4c64c33b290df",
+            "id": "1ff7ef45e2e4bd9d",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -170,22 +170,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
   "active": "6101f5a7aff20098",
   "lastOpenFiles": [
-    "02-windows/redme.md",
-    "readme.md",
-    "01-proxmox-lab/configs/1.sh.md",
     "01-proxmox-lab/readme.md",
+    "readme.md",
+    "dodawanie scrennow.md",
+    "02-windows/1.md",
+    "02-windows/redme.md",
+    "01-proxmox-lab/configs/1.sh.md",
     "01-proxmox-lab/configs/2.ps1.md",
     "01-proxmox-lab/docs/network-setup.md",
     "Lab/01_Linux/redme.md",
@@ -195,9 +197,7 @@
     "01-proxmox-lab/docs",
     "01-proxmox-lab",
     "02-windows/1.png",
-    "dodawanie scrennow.md",
     "02-windows/skrypt.ps1.md",
-    "02-windows/1.md",
     "Lab/Peoxmox/redme.md",
     "Lab/Peoxmox/config",
     "Lab/Peoxmox/screen",
